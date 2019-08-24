@@ -1,4 +1,5 @@
-FROM ubuntu:16.04
+FROM consol:ubuntu-xfce-vnc
+
 
 # Specify the binary we want to use
 ENV GENY_VERSION=2.7.2
