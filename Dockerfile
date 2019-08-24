@@ -1,4 +1,4 @@
-FROM consol:ubuntu-xfce-vnc
+FROM centminmod/docker-ubuntu-vnc-desktop
 
 
 # Specify the binary we want to use
